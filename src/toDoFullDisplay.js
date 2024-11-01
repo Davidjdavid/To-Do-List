@@ -3,3 +3,4 @@
 
 // When you close the to do it should go back to the previous display. Maybe pass something into a function so that when you close the To Do
 // it just goes back the list. Like it calls the function that displays the list and stuff
+
